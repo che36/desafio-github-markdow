@@ -4,5 +4,5 @@
 
 > *Projeto para explorar melhorias no ReadMe,deixando projetos git mais explicatovos.*
 
-> *Projeto para melhorar e explorar as possibilidades do MarkDow*
+
 
